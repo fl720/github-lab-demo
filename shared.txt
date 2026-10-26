@@ -1,1 +1,3 @@
 First line in the shared file.
+second line in the shared file
+third line in the shared file
